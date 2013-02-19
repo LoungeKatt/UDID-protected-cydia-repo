@@ -15,4 +15,5 @@ There exists a mirror on BitBucket at https://bitbucket.org/angelXwind/udid-prot
 
 -------
 Original author: @moeseth
+
 Modified by Karen Tsai (angelXwind) for use with lighttpd
