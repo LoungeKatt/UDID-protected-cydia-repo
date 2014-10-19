@@ -15,3 +15,5 @@ Special thanks to http://serverfault.com/questions/166535/creating-a-password-pr
 Original author: @moeseth
 
 Modified by Karen Tsai (angelXwind) for use with lighttpd
+
+Modified by LoungeKatt for download statistics
